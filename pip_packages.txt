@@ -1,0 +1,13 @@
+pip install virtualenv
+pip install virtualenvwrapper
+pip install numpy
+brew install gfortran
+pip install scipy
+brew install freetype
+pip install matplotlib
+pip install tornado
+pip install nose
+pip install pygments
+pip install ipython
+pip install Flask
+pip install pandas
